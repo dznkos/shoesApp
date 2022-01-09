@@ -144,13 +144,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.11"
-  math_utils:
-    dependency: "direct main"
-    description:
-      name: math_utils
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.3"
   meta:
     dependency: transitive
     description:
