@@ -1,0 +1,133 @@
+[{
+        "id": "ccc77727-c82d-48f8-8c61-9eb5b183a950",
+        "brand": "adidas",
+        "colorway": "Onyx/Onyx/Onyx",
+        "gender": "men",
+        "name": "Onyx",
+        "releaseDate": "2022-03-07",
+        "retailPrice": 60,
+        "shoe": "adidas Yeezy Slide",
+        "styleId": "HQ6448",
+        "title": "adidas Yeezy Slide Onyx",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Yeezy-Slide-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1641324068"
+        }
+    },
+    {
+        "id": "e1ce631e-7439-4d56-a33e-ff65d686999f",
+        "brand": "adidas",
+        "colorway": "Solar Pink/Solar Pink",
+        "gender": "unisex",
+        "name": "Beyonce Ivy Park Ivy Heart",
+        "releaseDate": "2022-02-10",
+        "retailPrice": 200,
+        "shoe": "adidas Ultra Boost OG",
+        "styleId": "GX2236",
+        "title": "adidas Ultra Boost OG Beyonce Ivy Park Ivy Heart",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Ultra-Boost-OG-Beyonce-Ivy-Park-Ivy-Heart.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643392255"
+        }
+    },
+    {
+        "id": "2d129582-a036-466a-9c2d-4dcde50ecab0",
+        "brand": "adidas",
+        "colorway": "Off White/Gum",
+        "gender": "unisex",
+        "name": "Beyonce Ivy Park Ivy Heart",
+        "releaseDate": "2022-02-09",
+        "retailPrice": 100,
+        "shoe": "adidas Stan Smith Dipped",
+        "styleId": "GW9717",
+        "title": "adidas Stan Smith Dipped Beyonce Ivy Park Ivy Heart",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Stan-Smith-Dipped-Beyonce-Ivy-Park-Ivy-Heart.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643392256"
+        }
+    },
+    {
+        "id": "469106a4-d566-49ce-a511-4f290afe502f",
+        "brand": "adidas",
+        "colorway": "Red/Red/Red",
+        "gender": "unisex",
+        "name": "Beyonce Ivy Park Ivy Heart",
+        "releaseDate": "2022-02-09",
+        "retailPrice": 0,
+        "shoe": "adidas Swim Slide",
+        "styleId": "GX1702",
+        "title": "adidas Swim Slide Beyonce Ivy Park Ivy Heart",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Slide-Beyonce-Ivy-Park-Ivy-Heart.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643392256"
+        }
+    },
+    {
+        "id": "8e0ed5aa-e04f-43b9-8641-0e07a832b221",
+        "brand": "adidas",
+        "colorway": "Off White/Red",
+        "gender": "women",
+        "name": "Beyonce Ivy Park Ivy Heart (W)",
+        "releaseDate": "2022-02-09",
+        "retailPrice": 100,
+        "shoe": "adidas Superstar Mule",
+        "styleId": "GW2032",
+        "title": "adidas Superstar Mule Beyonce Ivy Park Ivy Heart (W)",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Superstar-Mule-Beyonce-Ivy-Park-Ivy-Heart-W.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643392255"
+        }
+    },
+    {
+        "id": "fb6654ca-68d8-4fde-bd57-28b198ce7680",
+        "brand": "adidas",
+        "colorway": "Beige/Off White/Red/Gum",
+        "gender": "unisex",
+        "name": "Beyonce Ivy Park Ivy Heart",
+        "releaseDate": "2022-02-09",
+        "retailPrice": 180,
+        "shoe": "adidas Savage V4",
+        "styleId": "GW1975",
+        "title": "adidas Savage V4 Beyonce Ivy Park Ivy Heart",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Savage-V4-Beyonce-Ivy-Park-Ivy-Heart.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643392255"
+        }
+    },
+    {
+        "id": "3b0d7417-0704-4041-81a9-4e068fb61ca9",
+        "brand": "adidas",
+        "colorway": "Core Black/Core Black/Cloud White",
+        "gender": "women",
+        "name": "Black White (W)",
+        "releaseDate": "2022-02-04",
+        "retailPrice": 190,
+        "shoe": "adidas Ultra Boost 22",
+        "styleId": "GX5591",
+        "title": "adidas Ultra Boost 22 Black White (W)",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Ultra-Boost-22-Black-White-W.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643623134"
+        }
+    },
+    {
+        "id": "67e80eb1-50c1-4f42-bf8c-fff0e82e536a",
+        "brand": "adidas",
+        "colorway": "Mesa/Solar Red/Gum",
+        "gender": "men",
+        "name": "XLARGE Mesa",
+        "releaseDate": "2022-02-04",
+        "retailPrice": 110,
+        "shoe": "adidas Campus 80s",
+        "styleId": "GW3248",
+        "title": "adidas Campus 80s XLARGE Mesa",
+        "year": 2022,
+        "media": {
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Campus-80s-XLARGE-Brown.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1643957759"
+        }
+    }
+
+
+
+
+]

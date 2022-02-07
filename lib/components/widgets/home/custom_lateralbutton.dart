@@ -39,7 +39,7 @@ class _CustomLateralButtonState extends State<CustomLateralButton> {
       children: [
         Expanded(child: ButtonLateral('New', 0)),
         Expanded(child: ButtonLateral('Featured', 1)),
-        Expanded(child: ButtonLateral('Upcoming', 2))
+        Expanded(child: ButtonLateral('Upcoming', 2)),        
       ],
     );
   }

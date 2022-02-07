@@ -22,24 +22,32 @@ class _CustomMenuButtonState extends State<CustomMenuButton> {
                       value = indexbutton;
                     });
                   },
-      child: Text(namebutton, 
-        style: GoogleFonts.josefinSans(textStyle: TextStyle(fontSize: 20, 
-          color: (value == indexbutton)? Colors.black: Colors.grey[300],
-        fontWeight: FontWeight.w900)),), 
+      child: Container(
+        width: 120,
+        alignment: Alignment.center,
+        child: Text(namebutton, 
+          style: GoogleFonts.josefinSans(textStyle: TextStyle(fontSize: 20, 
+            color: (value == indexbutton)? Colors.black: Colors.grey[300],
+          fontWeight: FontWeight.w900)),),
+      ), 
     );
   }
 
 
   @override
   Widget build(BuildContext context) {
-    return Row(
-      children: [
-        ButtonMenu('Nike', 0),
-        ButtonMenu('Adidas', 1),
-        ButtonMenu('Jordan', 2),
-        ButtonMenu('Puma', 3),
-        ButtonMenu('Reebook', 4),
-      ],
+    return 
+    SingleChildScrollView(            
+        scrollDirection: Axis.horizontal,
+        child: Row(
+          children: [
+            ButtonMenu('Nike', 0),
+            ButtonMenu('Adidas', 1),
+            ButtonMenu('Jordan', 2),
+            ButtonMenu('Puma', 3),
+            ButtonMenu('Reebook', 4),
+          ],
+        )
     );
   }
 }
