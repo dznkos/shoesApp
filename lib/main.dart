@@ -1,4 +1,5 @@
 
+import 'package:appshoes/components/models/product.dart';
 import 'package:appshoes/components/screen/home/components/home_screen.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
@@ -6,6 +7,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'components/screen/bag/bag_screen.dart';
 import 'components/screen/product/product_screen.dart';
 
 
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
           color: Colors.blue,
           
           theme: ThemeData(
-            scaffoldBackgroundColor: Colors.grey[50],
+            scaffoldBackgroundColor: Color(0xFFFCFCFC),
             primarySwatch: Colors.blue,
             textTheme: TextTheme(
               headline1: GoogleFonts.josefinSans(textStyle: TextStyle(
@@ -34,11 +36,17 @@ class MyApp extends StatelessWidget {
                   fontSize: 22,
                   color: Colors.black,
                   fontWeight: FontWeight.w900
-                )),
+                )),                
               headline2: GoogleFonts.josefinSans(textStyle: TextStyle(
                   letterSpacing: 1.5,
                   fontSize: 20,
                   color: Colors.white,
+                  fontWeight: FontWeight.w900
+                )),
+              headline3: GoogleFonts.josefinSans(textStyle: TextStyle(
+                  letterSpacing: 0.5,
+                  fontSize: 14,
+                  color: Colors.grey[800],
                   fontWeight: FontWeight.w900
                 )),
             )

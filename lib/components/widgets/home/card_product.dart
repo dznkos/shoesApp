@@ -12,10 +12,11 @@ import 'package:google_fonts/google_fonts.dart';
 
 class CardProduct extends StatefulWidget {
   const CardProduct({
-    Key? key, required this.product,
+    Key? key, required this.product, required this.cardColor,
   }) : super(key: key);
 
   final Producto product;
+  final Color cardColor;
 
   @override
   State<CardProduct> createState() => _CardProductState();
@@ -41,7 +42,7 @@ class _CardProductState extends State<CardProduct> {
               width: 260,
               margin: EdgeInsets.all(10),
               decoration: BoxDecoration(
-                color: Color(0xFFeba08e),
+                color: widget.cardColor,
                 borderRadius: BorderRadius.circular(25)),
               child: Padding(
               padding: const EdgeInsets.all(20.0),
@@ -81,11 +82,8 @@ class _CardProductState extends State<CardProduct> {
           // shoe
           Container( 
             height: 300,                     
-            child:Hero(
-                    tag: widget.product.urlImage,
-                    child: Image.asset(widget.product.urlImage,                                
-                            fit: BoxFit.contain,),
-                      )
+            child: Image.asset(widget.product.urlImage,                                
+                            fit: BoxFit.contain,),            
           ),
           // arrow
           Positioned(

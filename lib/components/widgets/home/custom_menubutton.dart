@@ -13,7 +13,7 @@ class CustomMenuButton extends StatefulWidget {
 
 class _CustomMenuButtonState extends State<CustomMenuButton> {
 
-  int value = 0;
+  int value = 1;
 
   Widget ButtonMenu(String namebutton,int indexbutton){
     return CupertinoButton(
